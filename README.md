@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/plin.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./asset/img.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./asset/img.svg">
     <img src="./assets/parvathi_m_s_banner.gif" width="100%" alt="Parvathi M S - Computer Applications · AI · Data Analytics"/>
   </picture>
   <br>
