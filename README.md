@@ -208,7 +208,7 @@ The system uses a CNN-based approach to classify MRI images into **Moyamoya** an
 
 ### Let's build something interesting together.
 
-📧 **Your Email Here**
+📧 **parvathims2005@gmail.com**
 
 </div>
 
